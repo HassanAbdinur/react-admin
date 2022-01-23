@@ -5,10 +5,10 @@ const PostEdit = (props) => {
   return (
       <Edit>
           <SimpleForm>
-              <TextInput />
-              <TextInput />
-              <TextInput />
-              <DateInput />
+              <TextInput disabled source='id' />
+              <TextInput source='title' />
+              <TextInput multiline source='body' />
+              <DateInput label='Published' source='publishedAt' />
           </SimpleForm>
       </Edit>
   )
