@@ -4,7 +4,7 @@
       "id": "1",
       "title": "post 1",
       "body": "This is the post body",
-      "publishedAt": "01-22-2022"
+      "publishedAt": "2022-01-20"
     },
     {
       "id": "2",
@@ -27,12 +27,14 @@
   ],
   "users": [
     {
-      "id": "1",
-      "title": "post 1",
-      "email": "john@gmail.com"
+      "id": "x-0H9j1",
+      "name": "billy",
+      "email": "billy@gmail.com"
     },
     {
-      "id": "x-0H9j1"
+      "name": "john",
+      "email": "joemama@gmail.com",
+      "id": "Vl1RqfI"
     }
   ]
 }
